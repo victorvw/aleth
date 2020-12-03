@@ -1,3 +1,5 @@
+[![Gitpod ready-to-code](https://img.shields.io/badge/Gitpod-ready--to--code-blue?logo=gitpod)](https://gitpod.io/#https://github.com/ethereum/aleth)
+
 # Aleth – Ethereum C++ client, tools and libraries
 
 > The collection of C++ libraries and tools for Ethereum,
